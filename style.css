@@ -40,6 +40,18 @@ article div {
   width: 100%;
 }
 
+.intro-row{
+  display: flex;
+  align-item: center; /*horzontially centers the entire row*/
+  gap: 20px;/* space betweenimage and text*/
+  margin-bottom: 20px;
+}
+
+intro-row h3{
+  margin: 0;  
+  text-align: center;
+}
+
 /* Paragraphs */
 p {
   line-height: 1.5;
