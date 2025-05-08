@@ -24,6 +24,12 @@ header {
   align-items: center;
   padding: 10px 20px;
 }
+nav a {
+  margin-left: 20px;
+  text-decoration: none;
+  color: inherit;
+  
+}
 
 /* Containers */
 div {
@@ -83,12 +89,7 @@ a:hover {
   color: #f77f00;
 }
 
-nav a {
-  margin-left: 20px;
-  text-decoration: none;
-  color: inherit;
-  
-}
+
 
 /* Images */
 img {
