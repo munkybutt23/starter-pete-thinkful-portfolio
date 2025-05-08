@@ -8,6 +8,21 @@ body {
   padding: 40px;
 }
 
+.projects{
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.projects section{
+  flex: 1;
+  min-width: 250px;
+}
+
+.projects p {
+  font-size: 14px;
+}
+
 /* Headings */
 h1,
 h2,
